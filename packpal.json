@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1795088025021,
+      "name": "Test Traveller",
+      "email": "test@packpal.local",
+      "passwordHash": "$2b$12$yfxW6jDqOtvzxfxHBLr6PO0/7Nly/4xZMUtR4oRTJMvhrjSYIjDfm"
+    },
+    {
+      "id": 1795088488298,
+      "name": "pratibha",
+      "email": "pratibha@gmail.com",
+      "passwordHash": "$2b$12$Zpp8rbxd08X4zwHLixhs3e1/LeW8l6C8PXuoBM/4a8qRXePPXwkKW"
+    }
+  ],
+  "trips": [
+    {
+      "id": 1795088025337,
+      "userId": 1795088025021,
+      "destination": "Paris",
+      "departureDate": "2026-12-10",
+      "returnDate": "2026-12-15",
+      "travellers": 2,
+      "purpose": "Leisure",
+      "activities": [
+        "Sightseeing"
+      ],
+      "baggageType": "Checked",
+      "packing": []
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "projectId": "prj_zAkg7RHJlMUMcMRi8l6VFIwTFiOA",
+  "orgId": "team_1yZ2hBL25lQB0JzFTQuCXL1P",
+  "projectName": "packpal",
+  "settings": {
+    "createdAt": 1794853871398,
+    "devCommand": null,
+    "installCommand": null,
+    "buildCommand": null,
+    "outputDirectory": null,
+    "rootDirectory": null,
+    "directoryListing": false,
+    "nodeVersion": "26.x"
+  }
+}
